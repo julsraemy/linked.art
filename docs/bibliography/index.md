@@ -100,4 +100,4 @@ Alexiev, V. (2018). Museum Linked Open Data: Ontologies, Datasets, Projects. *Di
 
 Fink, E. E. (2018). *American Art Collaborative (AAC) Linked Open Data (LOD) Initiative* (p. 81) [Overview and Recommendations for Good Practices]. American Art Collaborative. [https://hdl.handle.net/10088/106410](https://hdl.handle.net/10088/106410)
 
-Newbury, D. (2018). LOUD: Linked Open Usable Data and linked.art. *2018 CIDOC Conference*, 1–11. [https://cidoc.mini.icom.museum/wp-content/uploads/sites/6/2021/03/CIDOC2018_paper_153.pdf](https://cidoc.mini.icom.museum/wp-content/uploads/sites/6/2021/03/CIDOC2018_paper_153.pdf)
+Newbury, D. (2018). LOUD: Linked Open Usable Data and linked.art. *2018 CIDOC Conference*, 1–11. [https://icom-documentation.mini.icom.museum/wp-content/uploads/sites/87/2021/03/CIDOC2018_paper_153.pdf](https://icom-documentation.mini.icom.museum/wp-content/uploads/sites/87/2021/03/CIDOC2018_paper_153.pdf)
